@@ -1094,21 +1094,25 @@ Media queries
 }
 
 .fa-html5 {
-  color: #ffee58;	
+  color: #738ffe;	
 }
 
 .fa-mobile {
-  color: #9ccc65;
-}
-
-.fa-gears {
-  color: #2baf2b;	
-}
-
-.fa-rocket {
   color: #e84e40;
 }
 
-.fa-cloud {
+.fa-gears {
+  color: #ffee58;	
+}
+
+.fa-rocket {
   color: #738ffe;
+}
+
+.fa-cloud {
+  color: #2baf2b;
+}
+
+.fa-github {
+  color: #e84e40;
 }
