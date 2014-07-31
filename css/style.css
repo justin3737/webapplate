@@ -1097,6 +1097,10 @@ Media queries
 	}
 }
 
+#tldr li {
+    list-style-type: none;
+}
+
 .fa-html5 {
   color: #738ffe;	
 }
