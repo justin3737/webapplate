@@ -1094,7 +1094,15 @@ Media queries
 }
 
 .fa-html5 {
-  color: #ffa726;	
+  color: #ffee58;	
+}
+
+.fa-mobile {
+  color: #9ccc65;
+}
+
+.fa-gears {
+  color: #2baf2b;	
 }
 
 .fa-rocket {
@@ -1102,5 +1110,5 @@ Media queries
 }
 
 .fa-cloud {
-  color: #29b6f6;
+  color: #738ffe;
 }
