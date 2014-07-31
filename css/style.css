@@ -1099,6 +1099,7 @@ Media queries
 
 #tldr li {
     list-style-type: none;
+    margin-left: -4.5rem;
 }
 
 .fa-html5 {
